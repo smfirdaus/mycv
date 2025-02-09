@@ -1,5 +1,4 @@
-# 👨🏻‍💻 Mohd Firdaus
-_Measurement Engineer based in Qatar 🇶🇦_
+# Measurement Engineer based in Qatar 🇶🇦
 
 [Email](mailto:shahrinmohdfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
 

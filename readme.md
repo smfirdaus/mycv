@@ -1,7 +1,7 @@
 ### Measurement Engineer based in Qatar 🇶🇦
 [Email](mailto:shahrinmohdfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
 
-## 💼 Career
+## :briefcase: Career
 **QatarEnergy LNG** _(Mar 2024 – Present)_  
 Provide technical services for the Measurement Engineering at QatarEnergy LNG. Supporting audits and managing measurement dispensation and exemption processes, ensuring compliance and enhancing operational efficiency.
 -	Measurement Engineer (Direct Hire), QATAR _(From Mar 2025)_
@@ -17,11 +17,11 @@ Led the strategy and execution of custody transfer and fiscal allocation meterin
 Pre-development of “MathQuest,” Malaysia’s first RPG-based interactive game designed to engage primary school students in Mathematics. Formulated the conceptual framework, designing game environments, and scripting initial learning modules using ActionScript object-oriented programming.
  - Game Programmer
 
-## 🛠️ Skills & Competencies
+## :gear: Skills & Competencies
 - **Measurement:** Verification & calibration/certification, testing & commissioning, design standards (AGA 3/7/8/9/10, API MPMS Ch 1-23, ISO 3170/3171/5167/6974/6976/17089 for gas, liquid, sampling, composition, energy), uncertainty evaluation (Kelton), manual and procedures, audits, mismeasurement, dispensation & exemption.
 - **Application:** Analytics & dashboarding (PowerBI), data historian (PI/RTIS), data science (data analysis, machine learning).
 
-## 🎉 Achievements
+## :trophy: Achievements
 **Asset and technical support:**
 - Participated in the development, testing (FAT & SAT), and commissioning of metering systems 
 utilizing various technologies, including ultrasonic flow meters (Sick, Elster), turbine meters (Faure Herman, Daniel), orifice meters (Daniel, Canalta), multiphase flow meters and wetgas meters, flow computers (Floboss, Omni, Solartron, FlowX, Summit, Elster), sampling system, and analyzers (gas chromatograph, moisture, hydrocarbon dewpoint, H2S, mercury).
@@ -54,7 +54,7 @@ within the production allocation system (Energy Component).
 - Description 
 - Accomplishment
 
-## 🎓 Education & Affiliation
+## :mortar_board: Education & Affiliation
 **Master of Data Science (With Distinction)** | University of Malaya, MALAYSIA | 2020  
 **B. Eng. (Hons) Electrical and Electronics**, Universiti Teknologi PETRONAS, MALAYSIA (2009)
 
@@ -64,7 +64,7 @@ within the production allocation system (Energy Component).
 **Graduate Technologist**, Malaysia Board of Technologists (GT21050210)  
 **Technical Committee** on Petroleum and Gas Measurement (NSC 08/TC 1), Department of Standards Malaysia (2018-2022)
 
-## 📜 Papers & Presentations
+## :scroll: Papers & Presentations
 1. Upstream Measurement System – Rediscover Experience, Revolutionize Approaches. PETRONAS 
 Measurement Forum, 2021 – Best Presenter
 2.  Liquid Hydrocarbon Measurement: ‘New Table’ Implementation for Volume Correction Factor (VCF). Hydrocarbon Measurement & Allocation Community of Practice, 2021

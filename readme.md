@@ -1,5 +1,5 @@
 ### Measurement Engineer based in Qatar 🇶🇦
-[LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
+[Email](smfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
 
 ## 💼 Career
 **Intertek Global International** _(Mar 2024 – Present)_  
@@ -42,15 +42,6 @@ facilitate proactive monitoring of activities, and streamline compliance trackin
 accurate reporting.
 - Coordinated the development and testing for integration of new mismeasurement module/features 
 within the production allocation system (Energy Component).
-
-## 📌 Projects
-**Project 1** (link)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
-**Project 2** (link)
-- Description 
-- Accomplishment
 
 ## 🎓 Education & Affiliation
 **Master of Data Science (With Distinction)** | University of Malaya, MALAYSIA | 2020  

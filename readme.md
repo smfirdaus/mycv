@@ -2,9 +2,8 @@
 [Email](mailto:shahrinmohdfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
 
 ## 💼 Career
-**QatarEnergy LNG** _(Mar 2024 – Present)_  
--	Measurement Engineer (Direct Hire), QATAR _(From Mar 2025)_
--	Measurement Engineer (Contractor via Intertek Global International), QATAR _(Mar 2024 – Feb 2025)_
+**Intertek Global International** _(Mar 2024 – Present)_  
+-	Measurement Engineer, QATAR
 
 **Petroliam Nasional Berhad (PETRONAS)** _(Dec 2009 – Feb 2024)_  
 Led the strategy and execution of custody transfer and fiscal allocation metering systems, ensuring compliance with sales agreements, procedures, and industry standards. Focused on safeguarding the accuracy, reliability, and integrity of metering activities, directly protecting both business and Joint Venture interests.

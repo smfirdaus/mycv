@@ -1,5 +1,5 @@
 ### Measurement Engineer based in Qatar 🇶🇦
-[Email](mailto:shahrinmohdfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
+[LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
 
 ## 💼 Career
 **Intertek Global International** _(Mar 2024 – Present)_  

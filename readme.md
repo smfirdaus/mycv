@@ -3,7 +3,6 @@
 
 ## 💼 Career
 **QatarEnergy LNG** _(Mar 2024 – Present)_  
-Provide technical services for the Measurement Engineering at QatarEnergy LNG. Supporting audits and managing measurement dispensation and exemption processes, ensuring compliance and enhancing operational efficiency.
 -	Measurement Engineer (Direct Hire), QATAR _(From Mar 2025)_
 -	Measurement Engineer (Contractor via Intertek Global International), QATAR _(Mar 2024 – Feb 2025)_
 

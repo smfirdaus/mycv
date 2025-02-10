@@ -2,7 +2,7 @@
 [Email](mailto:smfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
 
 ## 💼 Career
-**Intertek Global International** _(Mar 2024 – Present)_  
+**QatarEnergyLNG (Contracted via Intertek Global International)** _(Mar 2024 – Present)_  
 -	Measurement Engineer, QATAR
 
 **Petroliam Nasional Berhad (PETRONAS)** _(Dec 2009 – Feb 2024)_  
